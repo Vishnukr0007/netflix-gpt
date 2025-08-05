@@ -1,14 +1,14 @@
-import './App.css'
+import Body from "./components/Body"
 
 function App() {
   
 
   return (
-    <>
       <div>
-        <h1 className='text-red-600 font-bold text-2xl'>Netflix Gpt</h1>
-        </div>
-    </>
+        
+         <Body/>    
+      </div>
+            
   )
 }
 
